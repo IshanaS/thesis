@@ -10,3 +10,5 @@ Created on Wed Apr 12 12:46:55 2017
 
 dT = 0.1
 global dT
+L = 257.81
+global L
